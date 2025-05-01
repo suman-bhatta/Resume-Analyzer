@@ -1,5 +1,5 @@
-streamlit==1.25.0
-tensorflow==2.14.0
+streamlit==1.32.2
+tensorflow==2.15.0
 tensorflow-hub==0.14.0
 pdfminer.six==20221105
 spacy==3.6.1
