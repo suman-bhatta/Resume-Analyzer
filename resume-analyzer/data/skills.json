@@ -1,1 +1,14 @@
-["Python", "Java", "SQL", "Excel", "Communication", "Project Management", "Machine Learning", "Data Analysis"]
+[
+    "Python", "Java", "C", "C++", "C#", "JavaScript", "TypeScript", "PHP", "Ruby", "Go", "Rust", "Swift", "Kotlin", "R",
+    "SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL", "Excel", "Power BI",
+    "Communication", "Teamwork", "Problem Solving", "Project Management", "Time Management",
+    "Machine Learning", "Deep Learning", "Artificial Intelligence", "Data Analysis", "Data Science", "NLP", "Computer Vision",
+    "Web Development", "Frontend Development", "Backend Development", "Full Stack Development",
+    "HTML", "CSS", "React", "Angular", "Vue.js", "Next.js", "Node.js", "Express.js", "Django", "Flask", "Laravel",
+    "DevOps", "CI/CD", "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "Git", "GitHub Actions",
+    "Quality Assurance", "QA Testing", "Selenium", "Postman", "JIRA", "Test Automation",
+    "Cybersecurity", "Ethical Hacking", "Penetration Testing", "Firewalls", "Network Security", "SIEM",
+    "Networking", "TCP/IP", "DNS", "HTTP", "LAN", "WAN", "VPN", "Router", "Switch", "Subnetting",
+    "Blockchain", "Smart Contracts", "Ethereum", "Solidity", "Hyperledger", "Web3.js", "Cryptography"
+  ]
+  
